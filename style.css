@@ -1,0 +1,8 @@
+
+/* auto content ko fit karne jitni value lega */
+*{
+    color: aliceblue;
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
